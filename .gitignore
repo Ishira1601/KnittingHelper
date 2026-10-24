@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.kotlin/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.zip
+KnittingHelper_Codebase_for_Google_AI_Studio.txt
